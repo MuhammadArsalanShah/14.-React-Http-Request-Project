@@ -26,3 +26,8 @@ export async function updateUserPlaces(places) {
 
   return resData.message;
 }
+// some extra commenta
+
+function donothing(params) {
+  
+}
